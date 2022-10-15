@@ -1,0 +1,7 @@
+pytest==6.2.5
+pytest-check==1.0.4
+pytest-xdist
+selenium==4.0.0
+Selenium-Screenshot==1.7.0
+webdriver-manager==3.5.2
+pytest-finer-verdicts
